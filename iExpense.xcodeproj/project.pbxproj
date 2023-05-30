@@ -20,6 +20,7 @@
 		7508699D2A25DB1000E5D7E0 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		75458C8B2A25264800983522 /* ExpenseItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseItem.swift; sourceTree = "<group>"; };
 		75458C8D2A25267B00983522 /* Expenses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expenses.swift; sourceTree = "<group>"; };
+		75812CA92A25E29B006C9123 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		75CEC8AC2A24B37100A19C74 /* iExpense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iExpense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75CEC8AF2A24B37100A19C74 /* iExpenseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iExpenseApp.swift; sourceTree = "<group>"; };
 		75CEC8B12A24B37100A19C74 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		75CEC8A32A24B37100A19C74 = {
 			isa = PBXGroup;
 			children = (
+				75812CA92A25E29B006C9123 /* README.md */,
 				75CEC8AE2A24B37100A19C74 /* iExpense */,
 				75CEC8AD2A24B37100A19C74 /* Products */,
 			);
